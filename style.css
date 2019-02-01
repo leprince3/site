@@ -1,0 +1,73 @@
+h1
+{
+color: red;
+    text-align: center;
+   
+}
+.menu_hamburger
+{
+float: right;
+height: 3em;
+}
+.imagebronze
+{
+    height:300px;
+    display: flex;
+    align-content: center
+}
+.logo
+{
+ float: left;
+  height: 5em;
+border: 2px black outset;
+    margin-right: 10px
+}
+.image_euro
+{
+    height: 20em;
+    display:flex 
+}
+.menu
+{
+     display: flex;
+    flex-direction: column; 
+    background:#9eeff7;
+         border: 3px blue outset
+}
+a:hover
+ {
+  color: red
+}
+.cap
+{
+    display: flex;
+    justify-content:center;
+    height:430px
+} 
+h2
+{
+    text-align: center;
+}
+html
+{
+    background: #d9dadb;
+}
+.conteneur
+{
+    display: flex;
+}
+
+   footer
+{
+    background: grey;   
+}
+em
+{
+   box-shadow: 6px 6px 6px black; 
+    background-color:aliceblue
+}
+.1
+{
+    height: 5em;
+    background-color: aqua;
+}
